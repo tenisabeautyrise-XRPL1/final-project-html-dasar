@@ -1,0 +1,24 @@
+h1 {
+    color: aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+body{
+    background-color: antiquewhite;
+}
+.nama{
+    color: aquamarine;
+}
+
+.panggilan{
+    color: beige;
+}
+
+p{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
